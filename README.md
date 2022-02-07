@@ -1,30 +1,22 @@
-### Hi Joel Dominguez here 👋
+<h1 align="center">
+Hi Joel Dominguez here 👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&color=%23997FFF&lines=Computer+Systems+Engineering+Student;Frontend+Developer+in+process+%F0%9F%92%BB;I+love+learning+new+things+every+day)](https://git.io/typing-svg)
+</h1>
+<h2 align="center">Follow me on Twitter
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/iJCode1?label=Follow%20me&logo=twitter&style=for-the-badge)](https://twitter.com/iJCode1)
+<br></h2>
 
----
-
-### Coding 💻
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
-<img align="left" alt="JS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <!--
-**iJCode1/iJCode1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<img align="right" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400"/>
 -->
+
+<h3 align="center">📊 My activity on GitHub
+<br>
+<br>
+
+<img align="left"  src="https://github-readme-stats.vercel.app/api?username=iJCode1&show_icons=true&locale=en&theme=midnight-purple&hide_border=true&bg_color=1d1f21&title_color=ffffff&icon_color=2bbc8a" alt="davidmariolc"  width="400px"/><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iJCode1&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=1d1f21&title_color=ffffff&icon_color=2bbc8a" height="160px"/>
+</h3>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=iJCode1&bg_color=0d1117&color=ffffff&line=00ffe1&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
