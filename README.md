@@ -1,7 +1,7 @@
 <h1 align="center">
 Hi Joel Dominguez here 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&weight=500&size=27&pause=1000&color=8723FF&background=FFFFFF00&vCenter=true&random=false&width=435&lines=Frontend+Developer+%F0%9F%92%9C;I+love+learning+new+things+every+day)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&weight=500&size=27&pause=1000&color=8723FF&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=Frontend+Developer+%F0%9F%92%9C;I+love+learning+new+things+every+day)](https://git.io/typing-svg)
 
 <h2 align="center">Follow me on Twitter
 
